@@ -13,3 +13,7 @@ A reading list commited here just to prevent me from losing it somewhere else.
 * *Functional and Reactive Domain Modeling* (Debasish Ghosh), ISBN 9781617292248
 * *Practical Foundations for Programming Languages* (Robert Harper), ISBN-13 978-1107029576
 * *Types and Programming Languages* (Benjamin C. Pierce), ISBN-13 978-0262162098
+
+## Other lists
+
+* [InfoSec Engineering Reading List](https://github.com/jacobian/infosec-engineering) (@jacobian)
