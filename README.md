@@ -3,6 +3,8 @@ A reading list commited here just to prevent me from losing it somewhere else.
 
 ## Articles
 
+* [Scalable Component Abstractions](http://lamp.epfl.ch/~odersky/papers/ScalableComponent.pdf) (Martin Odersky)
+
 ### Stuff around types
 
 * [Fast and Loose Reasoning is Morally Correct](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/fast+loose.pdf) (Nils Anders Danielsson, John Hughes, Patrik Jansson, Jeremy Gibbons)
