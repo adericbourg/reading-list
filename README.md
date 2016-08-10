@@ -17,3 +17,5 @@ A reading list commited here just to prevent me from losing it somewhere else.
 ## Other lists
 
 * [InfoSec Engineering Reading List](https://github.com/jacobian/infosec-engineering) (@jacobian)
+* [Reading List for Decentralized Systems](https://github.com/blockstack/reading-list) (@blockstack)
+
